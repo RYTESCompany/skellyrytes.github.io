@@ -22,7 +22,13 @@ Always uppercase RYTES. Always capitalize Company. Always a space between the wo
 
 ### Company Slogan
 
-<span style="font-variant:small-caps;">Effective Regulatory Navigation</span> should never be in quotes. Should always be in a smaller font size than the company name. Should always be all caps - small caps where available. There should be no period after the slogan.
+<span style="font-variant:small-caps;">Effective Regulatory Navigation</span> should never be in quotes. 
+
+Should always be in a smaller font size than the company name. 
+
+Should always be all caps - small caps where available. 
+
+There should be no period after the slogan.
 
 ```
 ✔️ EFFECTIVE REGULATORY NAVIGATION
@@ -58,13 +64,22 @@ Never stack the icon and the type. They should always be horizontal. The icon ca
 
 #### ❌ Stacked Icon and Text
 
+![](rytes-company-stacked.png)
+
 *Flag icon to be changed to something that we can actually trademark - current iteration is too close to the American Flag?*
 
-## Mascot
-
-
-
 ## Colors
+
+Primary Blue: 
+
+Secondary Red:
+
+Highlight Gold:
+
+Dark Text: #000000;
+
+Light Text: #0f0f0f;
+
 
 ### Dark Mode
 My eyes hurt. Wouldn't it be great to have a dark mode available? Or by default? White backgrounds are so abrasive.
@@ -72,7 +87,7 @@ My eyes hurt. Wouldn't it be great to have a dark mode available? Or by default?
 
 ## Typography
 
-Text on the web should always be a sans-serif font to favor readability over style. We should avoid using italics and bold unless absolutely necessary or for specific use cases like titles of media or quotes. Instead of using bold or italics to highlight the important information, consider rephrasing to be more concise and exclude superflous language. See Voice->Simple.
+We should avoid using italics and bold unless absolutely necessary or for specific use cases like titles of media or quotes. Instead of using bold or italics to highlight the important information, consider rephrasing to be more concise and exclude superflous language. See Voice->Simple.
 
 ### Font
 
@@ -91,17 +106,51 @@ Authoritative voice means we know what we're talking about. We are experts on th
 #### Simple
 Simple voice means we are sending a message that everyone can understand, whether they are a doctor, a lawyer, or a resident. Simple does not mean juvenile, boring, or vague- we are communicating complex ideas in a way that everyone gets. 
 
+> ❌ They say 90% of good copy-editing is deleting unnecessary text.
+
+> ❌ 90% of good editing is deleting unnecessary text.
+
+> ❌ 90% of good editing is deleting text.
+
+> ✔️ Good editing is deleting.
+
 #### Human
 Human voice means that while we are experts, we are people too, and understand what it's like to be in this situation. We are working to find a solution that works for everyone involved, and are here to make sure everyone feels heard.
 
+### Client-facing Voice
+When speaking to clients, we want to emphasize the Authoritative and Simple parts of our brand's Voice. We can be a little less human when speaking to clients, because it's all business here.
+
+### Resident-facing Voice
+When speaking to residents or their loved ones, we want to emphasize the Simple and Human parts of our brand's Voice. When dealing with complaints from real people, more than anything we just want to be good listeners.
+
+
 ## Writing Style
 
-We will always use a single space after a period, and no space before a period.
+Always use a single space after a period, and no space before a period.
 
-We will always use the Oxford Comma where applicable. 
+Always use the Serial/Oxford Comma where applicable. 
 
 
-## Links
+## Links and Actions
+
+Never use "Click here" or "Tap here" as the text for something to tap or click. This is ambiguous, device-specific, and does not indicate what will happen when the action is taken.
+
+### Buttons
+For buttons, use the action the button will take- "View Details", "Sign Up", "Delete", "Create".
+
+### Links
+When an action/verb is not appropriate, you should probably use a link instead of a button, with the text as the name of the target- "Wal-Mart", "Federal Guidelines", or "Dashboard". 
+
+## Mascot
+
+*Open Questions- When should we use the mascot? Should we have multiple mascots? Does it dilute the messaging/impact of the character(s)? Where are they most appropriate? Where does it feel like the use of a character lessens the impact of a message?*
+
+### D-Free
+
+The name D-Free should always be stylized as D-Free. Always capitalize the D and the F, and always put a dash between them. 
+
+D-Free as a character has several emotions and poses. D-Free's emotions should generally reflect the content of the message. He's a superhero whose name means Deficiency-Free. If he's at "full power" and happy, that means there's no deficiencies. If he's sad or unhappy, that means there's problems, and the user should take notice. 
+
 
 ## Other
 
