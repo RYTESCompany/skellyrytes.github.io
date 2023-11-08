@@ -133,13 +133,13 @@ Always use the Serial/Oxford Comma where applicable.
 
 ## Links and Actions
 
-Never use "Click here" or "Tap here" as the text for something to tap or click. This is ambiguous, device-specific, and does not indicate what will happen when the action is taken.
+Never use "Click here" or "Tap here" as the text for an action. This is ambiguous, device-specific, and does not indicate what will happen when the button is used.
 
 ### Buttons
-For buttons, use the action the button will take- "View Details", "Sign Up", "Delete", "Create".
+For buttons, use the action the button will take- "View Facility", "Sign Up", "Delete Record", "Create Case". If screen space is at a premium, just the verb will do- "View", "Register", "Delete", "Create".
 
 ### Links
-When an action/verb is not appropriate, you should probably use a link instead of a button, with the text as the name of the target- "Wal-Mart", "Federal Guidelines", or "Dashboard". 
+When an action/verb is not appropriate, use a link instead of a button, with the text representing the name of the target- "Foot Locker", "Federal Guidelines", or "Dashboard". 
 
 ## Mascot
 
@@ -149,6 +149,8 @@ When an action/verb is not appropriate, you should probably use a link instead o
 
 The name D-Free should always be stylized as D-Free. Always capitalize the D and the F, and always put a dash between them. 
 
+![](./images/dfree-point-up.gif)
+
 D-Free as a character has several emotions and poses. D-Free's emotions should generally reflect the content of the message. He's a superhero whose name means Deficiency-Free. If he's at "full power" and happy, that means there's no deficiencies. If he's sad or unhappy, that means there's problems, and the user should take notice. 
 
 ### F-Tag
@@ -156,6 +158,12 @@ D-Free as a character has several emotions and poses. D-Free's emotions should g
 The name F-Tag should always be stylized as F-Tag. Always capitalize the F and the T, and always put a dash between them.
 
 F-Tag as a character is a villain- if they show up, it's a bad sign. Use F-Tag sparingly, and only in situations that need attention. F-Tag stands for Federal Tag, which is when the Federal Government has taken an interest in a facility in a negative way.
+
+## Iconography 
+
+Work in progress. Will probably need a whole separate page to define icons for specific actions/ideas/nouns.
+
+[FontAwesome](https://fontawesome.com/search?m=free&o=r) and [Material Community Icons](https://static.enapter.com/rn/icons/material-community.html) are the frontrunners for icon sets
 
 ## Other
 
