@@ -70,16 +70,13 @@ Never stack the icon and the type. They should always be horizontal. The icon ca
 
 ## Colors
 
-Primary Blue: 
+#1b10e6<span style="color: transparent">..........................</span>#eb3131<span  style="color: transparent">..........................</span>#f4c141
 
-Secondary Red:
+![](./color_blue.jpg)
+![](./color_red.jpg)
+![](./color_gold.jpg)
 
-Highlight Gold:
-
-Dark Text: #000000;
-
-Light Text: #0f0f0f;
-
+*These colors are under discussion*
 
 ### Dark Mode
 My eyes hurt. Wouldn't it be great to have a dark mode available? Or by default? White backgrounds are so abrasive.
