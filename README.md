@@ -149,7 +149,7 @@ When an action/verb is not appropriate, use a link instead of a button, with the
 
 The name D-Free should always be stylized as D-Free. Always capitalize the D and the F, and always put a dash between them. 
 
-![](./images/dfree-point-up.gif)
+<img src="./images/dfree-point-up.gif" style="width: 200px" />
 
 D-Free as a character has several emotions and poses. D-Free's emotions should generally reflect the content of the message. He's a superhero whose name means Deficiency-Free. If he's at "full power" and happy, that means there's no deficiencies. If he's sad or unhappy, that means there's problems, and the user should take notice. 
 
